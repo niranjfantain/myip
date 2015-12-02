@@ -11,4 +11,4 @@ deploy:
       application: myip 
       on:
           branch: master
-      deployment_group: deploytoec2 
+      deployment_group: codeio-deployment
