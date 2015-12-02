@@ -8,3 +8,6 @@ deploy:
       secret_access_key: Si92iYHWPhp0KgSzwx+tdk6a4HRjkLpxPFXG/oul
       bucket: "S3 Bucket"
       revision_type: github
+      application: myip 
+      on:
+          branch: master 
