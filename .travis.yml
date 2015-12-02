@@ -10,4 +10,5 @@ deploy:
       revision_type: github
       application: myip 
       on:
-          branch: master 
+          branch: master
+      deployment_group: deploytoec2 
