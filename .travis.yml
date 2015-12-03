@@ -7,7 +7,7 @@ deploy:
   access_key_id: AKIAJ3D3FVKQYPMJRTPA
   secret_access_key:
     secure: UDgSJnkoeESswi6rw0E5iwMbKSzdlj9SiIcspFimY7mKIyHGlKhuro6f18JWBvQyVtZy/Y1g9r25IWsAiC/h9sS5+LjYQTKdI+AAGMvAXWX2a9hQ4jTqUxjuUd5MA8L+g8Pj4QQ+G9LwgLN+O0mv78ODuNBqRjG5kl7juVGix88IeyLx07q/GepySxaItLFMKNBMQnsku9aQNkfaLRZeqo0ExwyJCIKJtyW5cc0G6dGhuR/O3O7w9J96HhkGej6iOTpJhL61g/5uKcuztEwb6+/cQDqiYX0wiUchHP0MR7Qs7V9UvM0GjdSbMyOHyuDUGp6BeHRC4gNgoUK5IUNCl8AOP+UxRL488B/KxZmDa06rSycIFgMXFINIn8pY9KZX4hlt+OWoRBdGjpGo/iMt30QKtAbGy4gnOdCcqCMVdIvFa1ys1dKc3xqi4mfRSNjp3s9Qzus6thDcVVPhKrLOQkbW5xfRUI2ErceGPdl0BI7StbVQXb6LpJVLMFdo74lDIxAkfxyXgJavs6N3k8K/I6wsBbHqb+w6gzkU5Z750jnmnHnHrGkDa37AJwP8xiUeUYNl91nWADoZagL/atxnsuslumoGY9TSgAENce0jSMriq3Sqj8m64OktAuuTboksG79hegL7c8rVmSbfhM3QaG5t9pB5bFl6oQF1ViMXu5g=
-  application: myip
-  deployment_group: codeio-deployment
+  application: "myip"
+  deployment_group: "codeio-deployment"
   on:
     repo: niranjfantain/myip
